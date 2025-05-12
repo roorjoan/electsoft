@@ -45,6 +45,7 @@ Instalador para Windows que facilita la instalación de la aplicación ElectSoft
 
 - **roorjoan**
 - Repositorio: [https://github.com/roorjoan](https://github.com/roorjoan)
+- [Wiki IA electsoft](https://deepwiki.com/roorjoan/electsoft)
 
 ---
 
